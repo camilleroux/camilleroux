@@ -1,4 +1,11 @@
-### Hi there 👋
+### Salut, moi c'est Camille 👋
+
+- 👨‍💻 Je suis le cofondateur de [Human Coders](https://www.humancoders.com), centre de formation pour développeur·se·s.
+- 💬 Vous pouvez me lire et me contacter sur mon [blog](https://www.camilleroux.com/), [Twitter](https://twitter.com/camilleroux), [Mastodon](https://mastodon.social/@camilleroux) ou encore [LinkedIn](https://www.linkedin.com/in/camilleroux/).
+- ⚡ En plus du dev, on peut discuter entrepreneuriat, zététique, musique...
+- 😄 Pronons : il / he
+
+☕️ [Rencontrons-nous !](https://www.camilleroux.com/rencontrons-nous/)
 
 <!--
 **camilleroux/camilleroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
